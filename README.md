@@ -11,7 +11,7 @@ Clone and go to `postfix-3.3.19` directory. Then
 
 ```./tcl```
 
-for usage. Use step-by-step, or do everything with the options at you pace.
+for usage. Use step-by-step, or do everything with the options at your pace.
 
 <sup> see [TCL persistence](http://wiki.tinycorelinux.net/wiki:start#persistence)</sup>
 
