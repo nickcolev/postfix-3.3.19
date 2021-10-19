@@ -13,11 +13,16 @@ Clone and go to `postfix-3.3.19` directory. Then
 
 for usage. Use step-by-step, or do everything with the options at your pace.
 
-<sup> see [TCL persistence](http://wiki.tinycorelinux.net/wiki:start#persistence)</sup>
+## CONFIGURATION
+
+Configuration is **not** included in the generated `postfix.tcz`.
+Setup configuration in `/etc/postfix/` according to [Postfix documentation](http://www.postfix.org/postconf.5.html),
+customize it, and take care to [make it persistent](http://wiki.tinycorelinux.net/wiki:start#persistence).
 
 ## REFERENCES
 ### Postfix
 * [Official site](http://www.postfix.org/)
+* [Configuration](http://www.postfix.org/postconf.5.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/Postfix_(software))
 ### Tiny Core Linux (TCL)
 * [Official site](http://www.tinycorelinux.net/)
